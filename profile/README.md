@@ -15,7 +15,7 @@
 
 <h2 align="center">Internet infrastructure, engineered in Georgia.</h2>
 
-<p align="center">Starlink. Long-range wireless. Networks that keep you connected.</p>
+<p align="center">Starlink &nbsp; · &nbsp; Long-range Wi-Fi &nbsp; · &nbsp; Failover &nbsp; · &nbsp; Networking</p>
 
 <p align="center">
   <a href="https://linko.ge"><strong>Visit linko.ge ↗</strong></a>
