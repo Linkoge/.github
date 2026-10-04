@@ -1,39 +1,61 @@
 <p align="center">
-  <a href="https://linko.ge">
+  <a href="https://linko.ge/#gh-light-mode-only">
     <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Linkoge/.github/main/profile/assets/linko-dark.svg">
-      <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Linkoge/.github/main/profile/assets/linko-light.svg">
-      <img src="https://raw.githubusercontent.com/Linkoge/.github/main/profile/assets/linko-light.svg" alt="Linko" width="220">
+      <source media="(max-width: 640px)" srcset="https://raw.githubusercontent.com/Linkoge/.github/main/profile/assets/linko-hero-mobile-light.svg">
+      <img src="https://raw.githubusercontent.com/Linkoge/.github/main/profile/assets/linko-hero-light.svg#gh-light-mode-only" alt="Linko — technology and internet infrastructure in Georgia" width="1200">
+    </picture>
+  </a>
+  <a href="https://linko.ge/#gh-dark-mode-only">
+    <picture>
+      <source media="(max-width: 640px)" srcset="https://raw.githubusercontent.com/Linkoge/.github/main/profile/assets/linko-hero-mobile-dark.svg">
+      <img src="https://raw.githubusercontent.com/Linkoge/.github/main/profile/assets/linko-hero-dark.svg#gh-dark-mode-only" alt="Linko — technology and internet infrastructure in Georgia" width="1200">
     </picture>
   </a>
 </p>
 
-<p align="center"><strong>Reliable connectivity. Thoughtfully engineered.</strong></p>
-<p align="center"><a href="https://linko.ge">linko.ge</a></p>
+<h2 align="center">Internet infrastructure, engineered in Georgia.</h2>
 
-Linko is a technology company in Georgia focused on reliable internet infrastructure. We bring together satellite connectivity, wireless links and resilient networks to keep homes and businesses connected.
+<p align="center">Starlink. Long-range wireless. Networks that keep you connected.</p>
 
-## What we do
-
-- **Starlink** — installation, setup and integration into your network.
-- **Internet infrastructure** — dependable connectivity designed around your location and needs.
-- **Long-range Wi-Fi** — wireless links and extended coverage across sites.
-- **Internet failover** — backup connectivity across Starlink, mobile and wired connections.
-- **Networking** — network design, configuration and integration.
-
-## Public projects
-
-We share tools from our development workflow here on GitHub.
-
-| Project | Description |
-| :--- | :--- |
-| [Linko Dev Panel](https://github.com/Linkoge/linko-dev-panel) | A mobile-friendly panel for Git workflows, website previews and screenshot capture. |
-| [Linko Screenshotter](https://github.com/Linkoge/linko-screenshotter) | A repository reserved for screenshot tooling; currently contains its license. |
-
-<p>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=flat&amp;logo=python&amp;logoColor=white" alt="Python">
-  <img src="https://img.shields.io/badge/JavaScript-333333?style=flat&amp;logo=javascript&amp;logoColor=F7DF1E" alt="JavaScript">
-  <img src="https://img.shields.io/badge/Playwright-2E7D32?style=flat" alt="Playwright">
+<p align="center">
+  <a href="https://linko.ge"><strong>Visit linko.ge ↗</strong></a>
+  &nbsp; · &nbsp;
+  <a href="https://github.com/orgs/Linkoge/repositories?type=public">Explore our engineering</a>
 </p>
 
-Explore our [public repositories](https://github.com/orgs/Linkoge/repositories?type=public), or visit [linko.ge](https://linko.ge) for our services.
+<br>
+
+<p align="center">
+  <a href="https://linko.ge/#gh-light-mode-only">
+    <picture>
+      <source media="(max-width: 640px)" srcset="https://raw.githubusercontent.com/Linkoge/.github/main/profile/assets/linko-capabilities-mobile-light.svg">
+      <img src="https://raw.githubusercontent.com/Linkoge/.github/main/profile/assets/linko-capabilities-light.svg#gh-light-mode-only" alt="Satellite and backup: Starlink installation and internet failover. Wireless links: long-range Wi-Fi and extended coverage. Network infrastructure: design, configuration and integration." width="1200">
+    </picture>
+  </a>
+  <a href="https://linko.ge/#gh-dark-mode-only">
+    <picture>
+      <source media="(max-width: 640px)" srcset="https://raw.githubusercontent.com/Linkoge/.github/main/profile/assets/linko-capabilities-mobile-dark.svg">
+      <img src="https://raw.githubusercontent.com/Linkoge/.github/main/profile/assets/linko-capabilities-dark.svg#gh-dark-mode-only" alt="Satellite and backup: Starlink installation and internet failover. Wireless links: long-range Wi-Fi and extended coverage. Network infrastructure: design, configuration and integration." width="1200">
+    </picture>
+  </a>
+</p>
+
+<br>
+
+## Built at Linko
+
+Software from our engineering workflow, shared publicly.
+
+### [Linko Dev Panel ↗](https://github.com/Linkoge/linko-dev-panel)
+
+A mobile-friendly workspace for Git, website previews and browser screenshots.
+
+**Review &amp; commit** &nbsp; / &nbsp; **Preview websites** &nbsp; / &nbsp; **Capture desktop &amp; mobile**
+
+<p>
+  <img src="https://img.shields.io/badge/Python-333842?style=flat&amp;logo=python&amp;logoColor=white" alt="Python">
+  <img src="https://img.shields.io/badge/JavaScript-333842?style=flat&amp;logo=javascript&amp;logoColor=white" alt="JavaScript">
+  <img src="https://img.shields.io/badge/Playwright-333842?style=flat" alt="Playwright">
+</p>
+
+[Explore the Dev Panel](https://github.com/Linkoge/linko-dev-panel#readme) &nbsp; · &nbsp; [All public repositories](https://github.com/orgs/Linkoge/repositories?type=public)
